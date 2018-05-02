@@ -8,7 +8,7 @@ This project function includes:
 5. Delete
 5. Search
 6. Form Validaton
-7. Error / Success Notification
+7. Error / Success Alert
 8. Custom ID | using php <b>uniqid()<b>
 
 <b><i>Local Development Server:</i></b>
