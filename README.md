@@ -16,5 +16,5 @@ This project function includes:
 2. Local URL: http://localhost/posts | Local Pretty URL: http://laratuts.cydev
 
 <b><i>Production Server:</i></b><br>
-<b>Online Demo:</b> http://laratutsdemo.mscyber.com <br>
+<b>-> Online Demo:</b> http://laratutsdemo.mscyber.com <br>
 <i>*some codes might differ from Production Server</i>
