@@ -9,6 +9,7 @@ This project function includes:
 5. Search
 6. Form Validaton
 7. Error / Success Notification
+8. Custom ID | using php <b>uniqid()<b>
 
 <b><i>Local Development Server:</i></b>
 1. Laragon 3.1.8 (Apache 2.4.27, MySQL 5.7.19, PHP 7.1.12)
