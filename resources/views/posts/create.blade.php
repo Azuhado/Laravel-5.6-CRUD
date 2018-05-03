@@ -2,6 +2,10 @@
 @extends('layouts.app')
 
 @section('content')
+<script type="text/javascript" src="{{asset('js/jquery.min.js')}}"></script>
+<script type="text/javascript" src="{{asset('js/pace.min.js')}}"></script>
+<link rel="stylesheet" type="text/css" href="{{asset('css/pace_minimal.css')}}">
+
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
